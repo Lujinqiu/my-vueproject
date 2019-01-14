@@ -1,0 +1,67 @@
+[
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_category_flower.png",
+       "name":"鲜花",
+       "type":3
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_category_ppf.png",
+       "name":"永生花",
+       "type":3
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_category_cake.png",
+       "name":"蛋糕",
+       "type":3
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_category_gift.png",
+       "name":"礼品",
+       "type":3
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_category_chocolate.png",
+       "name":"巧克力",
+       "type":3
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_love.png",
+       "name":"送恋人",
+       "type":4
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_parent.png",
+       "name":"送长辈",
+       "type":4
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_friend.png",
+       "name":"送朋友",
+       "type":4
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_birthday.png",
+       "name":"生日祝福",
+       "type":5
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_profess.png",
+       "name":"表白求婚",
+       "type":5
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_business.png",
+       "name":"开业商务",
+       "type":5
+    },
+    {
+      "imgage":"https://img02.hua.com/m/home/img/m_home_use_anniversary.png",
+       "name":"周年纪念",
+       "type":5
+    }
+
+    
+]
+    
+
+
